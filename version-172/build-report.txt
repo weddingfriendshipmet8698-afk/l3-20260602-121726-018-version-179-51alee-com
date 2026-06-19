@@ -1,9 +1,0 @@
-parsed_movies: 2000
-movie_detail_pages: 2000
-category_pages: 10
-category_total_movies: 2000
-html_files: 2014
-all_movies_have_category: True
-all_details_exist: True
-baidu_in_all_html: True
-player_in_details: True
